@@ -12,7 +12,7 @@ function Header() {
 
   return (
     <header className={classes.header}>
-      <h1>Redux Auth</h1>
+      <h1>Redux toolkit</h1>
       {authState ?
         <nav>
           <ul>
